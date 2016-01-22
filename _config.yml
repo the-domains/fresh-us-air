@@ -1,0 +1,28 @@
+name: Fresh US. AIR
+favicon: null
+layout_spectrum: 0.4278783593326807
+typography_spectrum: 0.5704126788768917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11255901237018406
+  lightness: 0.763789551332593
+  saturation: 0.5593206831254065
+  rhythmicContrast: 0.5012704015243798
+purpose: []
