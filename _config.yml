@@ -13,9 +13,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.4928315
+  saturation: 0
+  lightness: 0.5663083
   brandStrength: 0.9157706
-  lightness: 0.9713262
   brandColors:
     - '#FFFFFF'
     - '#D0D0D0'
@@ -30,11 +30,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Fresh US. AIR
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6523297
-layout_spectrum: 0.5232975
+layout_spectrum: 1
