@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Air Duct Cleaning Services]]></title>
         <description><![CDATA[Air Duct Cleaning Services]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fresh-us-air/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 02:48:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 02:50:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fresh-us-air/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a2febc4-0c72-4771-ac7c-742a61bbae02.JPG">]]></description>
+            <link>https://thegrid.ai/fresh-us-air/31112e94-312f-4b40-9a61-0859fe9f5e7d/index.html</link>
+            <guid isPermaLink="false">31112e94-312f-4b40-9a61-0859fe9f5e7d</guid>
+            <pubDate>Tue, 26 Jan 2016 02:49:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8713ed1-7227-4486-bfe0-5a5bf4e1dd34.jpg">]]></description>
-            <link>undefined1d8dc0c8-e6d6-464d-83d2-2ede9e5ae73f/index.html</link>
+            <link>https://thegrid.ai/fresh-us-air/1d8dc0c8-e6d6-464d-83d2-2ede9e5ae73f/index.html</link>
             <guid isPermaLink="false">1d8dc0c8-e6d6-464d-83d2-2ede9e5ae73f</guid>
             <pubDate>Tue, 26 Jan 2016 02:48:22 GMT</pubDate>
         </item>
