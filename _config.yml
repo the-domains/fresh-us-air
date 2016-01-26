@@ -1,29 +1,41 @@
-name: Fresh US. AIR
-favicon: null
-layout_spectrum: 0.93144
-typography_spectrum: 0.5704126788768917
 title: Air Duct Cleaning Services
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1469534
+  brandStrength: 0.8125
+  lightness: 0.5412186
   brandColors:
     - '#000000'
     - '#000000'
     - '#000000'
     - '#000000'
     - '#000000'
-  brandStrength: 0.8125
-  lightness: 1
-  saturation: 0.5593206831254065
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.3351254
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Fresh US. AIR
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5704126788768917
+layout_spectrum: 0.93144
