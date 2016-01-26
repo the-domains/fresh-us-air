@@ -14,14 +14,13 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.9157706
   lightness: 0.06630825
+  brandStrength: 0.9157706
   brandColors:
     - '#FFFFFF'
-    - '#FC0101'
-    - '#1F1F1F'
-    - '#9A9A9A'
-    - '#89F201'
+    - '#D0D0D0'
+    - '#373737'
+    - '#A2A2A2'
   rhythmicContrast: 0.04480287
 cta:
   bucket: null
@@ -31,8 +30,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Fresh US. AIR
+favicon: null
 opengraph:
   image: null
   type: null
