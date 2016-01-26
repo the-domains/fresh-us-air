@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A garage door is a large door installed in the garage that can be operated manually or by an electric motor (automatically) Garage doors are often large enough '
-datePublished: '2016-01-26T03:53:58.830Z'
+datePublished: '2016-01-26T03:53:58.851Z'
 dateModified: '2016-01-26T03:53:49.778Z'
 author: []
 title: ''
