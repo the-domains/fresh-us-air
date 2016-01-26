@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'rage door is a large door installed in the garage that can be operated manually or by an electric motor (automatically) Garage doors are often large enough to accommodate cars and other vehicles. In Renton, garage doors are made of wood, metal, or fiberglass, and may be insulated to prevent heat loss   In almost all the houses in Renton today, garage doors have become esse'
-datePublished: '2016-01-26T04:00:32.928Z'
+datePublished: '2016-01-26T04:00:32.943Z'
 dateModified: '2016-01-26T04:00:26.865Z'
 author: []
 title: ronnn
