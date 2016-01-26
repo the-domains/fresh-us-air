@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ' Air duct cleaning is a process that sucks huge amounts of dust and allergen buildup from your ventilation system.  The process involves utilizing industrial high powered vacuum systems to pull out all of the unwanted dust buildup from your vents. Fresh us. Air will also offer preventative maintenance solutions such as UV light installations which destroy dust and allergens before they can build up.  Air duct cleaning is integral to the environment of your home, the air that you breathe, and is also important to prevent fire hazards.'
-datePublished: '2016-01-26T03:56:59.494Z'
+datePublished: '2016-01-26T03:56:59.510Z'
 dateModified: '2016-01-26T03:56:56.207Z'
 title: Garage door Repair Services
 author: []
